@@ -1,2 +1,2 @@
-# frontendmentor-lp
+# Frontend Mentor
 Frontend Mentor Learning Path Projects

@@ -19,13 +19,10 @@ This is a solution to the [QR Code Component challenge on Fronend Mentor](https:
 Desktop
 ![](./static/images/screenshots/desktop.png)
 
-Mobile
-![](./static/images/screenshots/mobile.png)
-
 ### Links
 
-- Solution URL: [](https://github.com/ankitashokgond/frontendmentor-lp/paths/first/qr-code-component/)
-- Live Site  URL: [](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/qr-code-component/)
+- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/paths/first/qr-code-component/)
+- [Live Site  URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/qr-code-component/)
 
 ## My process
 

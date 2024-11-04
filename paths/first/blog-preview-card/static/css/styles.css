@@ -1,0 +1,106 @@
+:root {
+  --clr-neutral: hsl(0, 0%, 100%);
+
+  --clr-primary: hsl(47, 88%, 63%);
+
+  --clr-gray-500: hsl(0, 0%, 42%);
+  --clr-gray-950: hsl(0, 0%, 7%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: 'Figtree', sans-serif;
+  font-weight: 500;
+  background-color: var(--clr-primary);
+  color: var(--clr-gray-950);
+  font-size: 0.875rem;
+}
+
+main {
+  height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: var(--clr-neutral);
+  border: 1.5px solid var(--clr-gray-950);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+  width: 20.875rem;
+  box-shadow: 0.5rem 0.5rem 0 0 var(--clr-gray-950);
+}
+
+figure > img {
+  border-radius: 0.875rem;
+}
+
+.article__genre {
+  display: block;
+  width: min-content;
+  padding: 0.2rem 0.5rem;
+  background-color: var(--clr-primary);
+  border-radius: 0.25rem;
+  font-weight: 800;
+  margin-bottom: 0.875rem;
+}
+
+.article__description h1 {
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+@media (pointer: fine) {
+
+  .article__description > h1:hover{
+    color: var(--clr-primary);
+    cursor: pointer;
+  }
+  
+}  
+
+.article__description p {
+  color: var(--clr-gray-500);
+  margin-block: 1rem 0.25rem;
+}
+
+.author__details {
+  display: flex;
+  gap: 0.875rem;
+  align-items: center;
+}
+
+.avatar {
+  width: 2rem;
+}
+
+.author__name {
+  font-weight: 800;
+}

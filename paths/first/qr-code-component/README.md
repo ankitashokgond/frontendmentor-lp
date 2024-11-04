@@ -16,7 +16,10 @@ This is a solution to the [QR Code Component challenge on Fronend Mentor](https:
 
 ### Screenshots
 
+Desktop
 ![](./static/images/screenshots/desktop.png)
+
+Mobile
 ![](./static/images/screenshots/mobile.png)
 
 ### Links

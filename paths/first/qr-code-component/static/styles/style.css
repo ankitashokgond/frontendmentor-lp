@@ -67,3 +67,11 @@ figure > img {
   color: var(--clr-slate-500);
   margin-block: 1rem;
 }
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}

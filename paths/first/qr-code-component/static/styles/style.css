@@ -26,6 +26,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   background-color: var(--clr-slate-300);
+  line-height: 1.4;
 }
 
 main {
@@ -37,10 +38,10 @@ main {
 
 .container {
   background-color: var(--clr-neutral);
-  width: 280px;
+  width: 320px;
   display: flex;
   flex-direction: column;
-  row-gap: 1rem;
+  row-gap: 1.5rem;
   padding: 1rem;
   border-radius: 1rem;
   box-shadow: 0 1rem 2rem -1rem var(--clr-slate-500);
@@ -52,12 +53,14 @@ figure > img {
 
 .description {
   text-align: center;
+  padding-inline: 0.9rem;
 }
 
 .description > h1 {
   color: var(--clr-slate-900);
   font-size: 1.3rem;
   font-weight: 700;
+  line-height: 1.2;
 }
 
 .description > p {

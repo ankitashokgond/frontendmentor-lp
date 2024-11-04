@@ -9,4 +9,4 @@ Frontend Mentor learning path projects
   - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/qr-code-component)
 - Blog Preview Card
   - [Live Preview](#)
-  - [Source](#)
+  - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/blog-preview-card)

@@ -21,7 +21,7 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/firts/social-links-profile/)
+- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/social-links-profile/)
 - [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/social-links-profile/)
 
 ## My process

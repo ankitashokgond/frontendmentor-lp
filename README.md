@@ -13,6 +13,6 @@ Frontend Mentor learning path projects
 - Social Links Profile
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/social-links-profile)
   - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/social-links-profile)
-- Recipe Page
+- Recipe Page (INCOMPLETE)
   - [Live Preview](#)
   - [Source](#)

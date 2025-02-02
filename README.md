@@ -22,3 +22,6 @@ Frontend Mentor learning path projects
 - Product Preview Card Component
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/product-preview-card-component)
   - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/second/product-preview-card-component)
+- Four Card Feature Section
+  - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/four-card-feature-section)
+  - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/second/four-card-feature-section)

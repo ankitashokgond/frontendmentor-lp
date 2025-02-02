@@ -17,7 +17,7 @@ This is a solution to the [Recipe Page challenge on Fronend Mentor](https://www.
 ### Screenshots
 
 Desktop
-![](./static/images/screenshots/desktop.png)
+![](static/images/screeshots/desktop.png)
 
 ### Links
 

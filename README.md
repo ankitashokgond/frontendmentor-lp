@@ -16,3 +16,9 @@ Frontend Mentor learning path projects
 - Recipe Page
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/recipe-page)
   - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/recipe-page)
+
+## Building responsive layouts
+
+- Product Preview Card Component
+  - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/product-preview-card-component)
+  - [Source](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/second/product-preview-card-component)

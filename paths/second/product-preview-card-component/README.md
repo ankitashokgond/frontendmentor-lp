@@ -37,10 +37,10 @@ Desktop
 
 - Google Fonts
   - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
-  - Weight: 500, 700
+  - Weights: 500, 700
 
   - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-  - Weights: 700
+  - Weight: 700
 
 ## Author
 

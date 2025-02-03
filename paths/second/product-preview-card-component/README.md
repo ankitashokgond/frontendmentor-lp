@@ -21,7 +21,6 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/second/product-preview-card-component)
 - [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/product-preview-card-component)
 
 ## My process

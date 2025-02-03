@@ -21,7 +21,6 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/recipe-page)
 - [Live Site  URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/recipe-page)
 
 ## My process

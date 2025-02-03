@@ -21,7 +21,6 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/qr-code-component)
 - [Live Site  URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/qr-code-component/)
 
 ## My process

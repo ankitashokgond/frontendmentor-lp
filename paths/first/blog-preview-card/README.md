@@ -21,7 +21,6 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/first/blog-preview-card)
 - [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/first/blog-preview-card)
 
 ## My process

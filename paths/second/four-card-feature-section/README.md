@@ -21,7 +21,6 @@ Desktop
 
 ### Links
 
-- [Solution URL](https://github.com/ankitashokgond/frontendmentor-lp/tree/main/paths/second/four-card-feature-section)
 - [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/four-card-feature-section)
 
 ## My process

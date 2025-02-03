@@ -25,3 +25,6 @@ Frontend Mentor learning path projects
 - Four Card Feature Section
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/four-card-feature-section)
   - [Source](paths/second/four-card-feature-section/)
+- Testimonials Grid Section
+  - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/testimonials-grid-section)
+  - [Source](paths/second/testimonials-grid-section/)

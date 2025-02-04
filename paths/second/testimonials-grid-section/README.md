@@ -21,7 +21,7 @@ Desktop
 
 ### Links
 
-- [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/testimonials-grid-section-solution)
+- [Live Site URL](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/testimonials-grid-section/)
 
 ## My process
 

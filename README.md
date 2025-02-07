@@ -28,3 +28,8 @@ Frontend Mentor learning path projects
 - Testimonials Grid Section
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/second/testimonials-grid-section)
   - [Source](paths/second/testimonials-grid-section/)
+
+## Javascript fundamentals
+- Article Preview Component
+  - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/third/article-preview-component/)
+  - [Source](paths/third/article-preview-component/)

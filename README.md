@@ -33,3 +33,6 @@ Frontend Mentor learning path projects
 - Article Preview Component
   - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/third/article-preview-component/)
   - [Source](paths/third/article-preview-component/)
+- Newsletter Sign-up Form with Success Message
+  - [Live Preview](https://ankitashokgond.github.io/frontendmentor-lp/paths/third/newsletter-sign-up-with-success-message/)
+  - [Source](paths/third/newsletter-sign-up-with-success-message/)

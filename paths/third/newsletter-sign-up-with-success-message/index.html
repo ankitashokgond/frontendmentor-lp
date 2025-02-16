@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Ankit Gond" />
+  <title>Newsletter Sign-Up with Success Message | Frontend Mentor</title>
+  <link rel="stylesheet" href="static/css/styles.css" />
+  <script defer src="static/js/script.js"></script>
+  <link rel="shortcut icon" href="static/images/favicon-32x32.png" type="image/x-icon" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <main>
+    
+    <picture>
+
+      <source media="(min-width: 900px)" srcset="static/images/illustration-sign-up-desktop.svg" />
+      <img src="static/images/illustration-sign-up-mobile.svg" alt="Sign-Up illustration" />
+      
+    </picture>
+
+    <section class="main">
+
+      <div class="wrapper">
+
+        <h1 class="heading">Stay updated!</h1>
+        <p class="subtext">Join 60,000+ product managers receiving monthly updates on:</p>
+
+        <ul>
+          <li><span>Product discovery and building what matters</span></li>
+          <li><span>Measuring to ensure updates are a success</span></li>
+          <li><span>And much more!</span></li>
+        </ul>
+        
+      </div>
+      
+      <form>
+
+        <label for="email">
+          <span>Email address</span>
+          <span class="alert__msg">Valid email required</span>
+        </label>
+
+        <input type="text" name="Email" id="email" class="email" placeholder="email@company.com" />
+
+        <button type="submit" id="submit">
+          <span>Subscribe to monthly newsletter</span>
+        </button>
+        
+      </form>
+
+    </section>
+
+    <section class="success hidden">
+
+      <div class="container">
+
+        <img src="static/images/icon-success.svg" alt="Success icon" class="success__icon" width="64px" height="64px" />
+
+        <h1 class="heading">Thanks for subscribing!</h1>
+
+        <p class="subtext">A confirmation email has been sent to <span class="given__email"></span>. Please open it and click the button inside to confirm your subscribtion</p>
+
+      </div>
+
+      <button type="button" id="dismiss__btn">
+        <span>Dismiss message</span>
+      </button>
+      
+    </section>
+    
+  </main>
+</body>
+</html>
